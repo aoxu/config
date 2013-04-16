@@ -1,0 +1,5 @@
+[user]
+	name = XA
+	email = xatest@gmail.com
+[core]
+	editor = vim
