@@ -1,0 +1,6 @@
+1. install privoxy by:
+brew install privoxy
+2. show the install path of privoxy by:
+brew info privoxy
+3. enter the sbin directory of privoxy and place the config file there. execute the command to forward a socks5 proxy to http proxy:
+./privoxy
